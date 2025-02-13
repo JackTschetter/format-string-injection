@@ -27,9 +27,8 @@ Lab covering format string injection vulnerabilities and related attack techniqu
 
 ## Tools Used
 
-- **Operating System**: Linux. Perhaps in the future other compatible Unix variants.
+- **Operating System**: Linux x86-64. Reccommended to use a machine running Ubuntu 22.04.
 - **Programming Language(s)**: C
-- **Libraries**: The GUI portion uses the GTK 3 family of GUI libraries.
 
 ---
 
