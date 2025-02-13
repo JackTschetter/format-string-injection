@@ -21,7 +21,7 @@
 
 ## About
 
-Lab developed for teaching about a fuzzing tool called AFL. Using AFL to find interesting crashing inputs of programs, and try out some attacker techniques related to heap vulnerabilities. To be precise I taught on AFL++ a more recent forked version.
+Lab covering format string injection vulnerabilities and related attack techniques. Technically this constitutes a control flow hijacking attack, but for simplicity students didn't use shellcode; instead the goal was to transfer control to the attack_function function.
 
 ---
 
